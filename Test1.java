@@ -1,4 +1,4 @@
-public class Test2 {
+public class Test1 {
     public static void main(String[] args) {
         IntegerNode head =null;
         System.out.println("head = "+head);
